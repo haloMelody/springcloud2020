@@ -1,0 +1,76 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="AUTODETECT_INDENTS" value="false" />
+    <DB2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </HSQLCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+        <value />
+      </option>
+    </JavaCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </SQLiteCodeStyleSettings>
+    <SqlCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+    </SybaseCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

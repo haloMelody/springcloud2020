@@ -1,0 +1,22 @@
+server:
+  port: 7001
+
+eureka:
+  instance:
+    hostname: eureka7001.com #服务端实例名称
+
+  client:
+    #不向注册中心注册自己
+    register-with-eureka: false
+    #表示仅仅作为服务注册中心，不进行服务的注册检索
+    fetch-registry: false
+    service-url:
+      #服务注册中心地址，MAP格式 defaultZone为默认自定义的key 集群：维护其他机器信息
+#      defaultZone: http://eureka7002.com:7002/eureka/
+      #单机，维护自己机器信息
+      defaultZone: http://eureka7001.com:7001/eureka/
+#  server:
+#    #是否开启自我保护机制
+#    enable-self-preservation: false
+#    #间隔时间，超过此时间 则将服务剔除
+#    eviction-interval-timer-in-ms: 2000

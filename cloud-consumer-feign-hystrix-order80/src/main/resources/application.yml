@@ -1,0 +1,13 @@
+server:
+  port: 80
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
+
+#      feign调用时开启hystrix,@FeignClient(value = "cloud-payment-hystrix-service" , fallback = PaymentFallbackService.class)
+feign:
+  hystrix:
+    enabled: true
